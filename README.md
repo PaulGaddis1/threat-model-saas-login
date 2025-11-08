@@ -10,7 +10,6 @@ This repository contains a concise threat model and prioritized remediation plan
 - `report/Threat_Model_Report.md` — completed threat model 
 - `diagrams/data_flow.png` — simple DFD illustrating the SaaS login/dashboard flow
 - `README.md` — this file
-- `screenshots/` — optional: add any exported images here
 
 ## How to use
 1. Review `report/Threat_Model_Report.md`. Edit if you want to change attacker likelihood/severity wording.
